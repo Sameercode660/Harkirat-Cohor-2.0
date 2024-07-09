@@ -14,6 +14,7 @@ function App() {
   const setTypeOfFilter = useSetRecoilState(typeOfFilterAtom);
 
   return (
+    
     <>
       <div>
         <div>
