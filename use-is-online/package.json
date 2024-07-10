@@ -1,0 +1,17 @@
+{
+  "name": "use-is-online-sam",
+  "version": "1.0.0",
+  "description": "A custom React hook to check online status",
+  "main": "src/useIsOnline.js",
+  "keywords": [
+    "react",
+    "hook",
+    "online",
+    "offline"
+  ],
+  "author": "Mohd Sameer",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  }
+}
