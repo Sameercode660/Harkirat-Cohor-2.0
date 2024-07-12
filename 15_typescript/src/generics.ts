@@ -3,7 +3,7 @@ function doSomething<T>(arr: T[]): T {
 }
 
 
-const result = doSomething<string>(["Sameer", "Amit", 1, 1, 'Amit'])
+const result = doSomething<string>(["Sameer", "Amit", 'Amit'])
 
 console.log(result)
 
